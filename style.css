@@ -20,10 +20,14 @@ main {
     
 }
 
-@media  screen and (max-width: 500px) {
+@media  screen and (max-width: 375px) {
+
+    body {
+        font-size: 14px;
+    }
+    
     main {
         width: 100vw;
-        margin: auto 5%;
     }
 }
 
