@@ -7,7 +7,7 @@ body {
      flex-direction: column;
      background-color: hsl(47, 88%, 63%);
      font-family: 'Figtree', sans-serif, Arial;
-    line-height: 1rem;
+     line-height: 1em;
 }
     
 main {
